@@ -1,0 +1,32 @@
+c:\users\tphmi\onedrive\documents\visual studio 2015\Projects\WebCrawlerTool\WebCrawlerTool\bin\Debug\WebCrawlerTool.exe.config
+c:\users\tphmi\onedrive\documents\visual studio 2015\Projects\WebCrawlerTool\WebCrawlerTool\bin\Debug\WebCrawlerTool.exe
+c:\users\tphmi\onedrive\documents\visual studio 2015\Projects\WebCrawlerTool\WebCrawlerTool\bin\Debug\WebCrawlerTool.pdb
+c:\users\tphmi\onedrive\documents\visual studio 2015\Projects\WebCrawlerTool\WebCrawlerTool\bin\Debug\Fizzler.dll
+c:\users\tphmi\onedrive\documents\visual studio 2015\Projects\WebCrawlerTool\WebCrawlerTool\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+c:\users\tphmi\onedrive\documents\visual studio 2015\Projects\WebCrawlerTool\WebCrawlerTool\bin\Debug\HtmlAgilityPack.dll
+c:\users\tphmi\onedrive\documents\visual studio 2015\Projects\WebCrawlerTool\WebCrawlerTool\bin\Debug\Fizzler.xml
+c:\users\tphmi\onedrive\documents\visual studio 2015\Projects\WebCrawlerTool\WebCrawlerTool\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+c:\users\tphmi\onedrive\documents\visual studio 2015\Projects\WebCrawlerTool\WebCrawlerTool\bin\Debug\HtmlAgilityPack.pdb
+c:\users\tphmi\onedrive\documents\visual studio 2015\Projects\WebCrawlerTool\WebCrawlerTool\bin\Debug\HtmlAgilityPack.xml
+c:\users\tphmi\onedrive\documents\visual studio 2015\Projects\WebCrawlerTool\WebCrawlerTool\obj\Debug\WebCrawlerTool.csprojResolveAssemblyReference.cache
+c:\users\tphmi\onedrive\documents\visual studio 2015\Projects\WebCrawlerTool\WebCrawlerTool\obj\Debug\WebCrawlerTool.Form1.resources
+c:\users\tphmi\onedrive\documents\visual studio 2015\Projects\WebCrawlerTool\WebCrawlerTool\obj\Debug\WebCrawlerTool.Properties.Resources.resources
+c:\users\tphmi\onedrive\documents\visual studio 2015\Projects\WebCrawlerTool\WebCrawlerTool\obj\Debug\WebCrawlerTool.csproj.GenerateResource.Cache
+c:\users\tphmi\onedrive\documents\visual studio 2015\Projects\WebCrawlerTool\WebCrawlerTool\obj\Debug\WebCrawlerTool.exe
+c:\users\tphmi\onedrive\documents\visual studio 2015\Projects\WebCrawlerTool\WebCrawlerTool\obj\Debug\WebCrawlerTool.pdb
+C:\Users\tphmi\Desktop\WebCrawlerTool\WebCrawlerTool\bin\Debug\WebCrawlerTool.exe.config
+C:\Users\tphmi\Desktop\WebCrawlerTool\WebCrawlerTool\obj\Debug\WebCrawlerTool.exe
+C:\Users\tphmi\Desktop\WebCrawlerTool\WebCrawlerTool\obj\Debug\WebCrawlerTool.pdb
+C:\Users\tphmi\Desktop\WebCrawlerTool\WebCrawlerTool\bin\Debug\WebCrawlerTool.exe
+C:\Users\tphmi\Desktop\WebCrawlerTool\WebCrawlerTool\bin\Debug\WebCrawlerTool.pdb
+C:\Users\tphmi\Desktop\WebCrawlerTool\WebCrawlerTool\bin\Debug\Fizzler.dll
+C:\Users\tphmi\Desktop\WebCrawlerTool\WebCrawlerTool\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\tphmi\Desktop\WebCrawlerTool\WebCrawlerTool\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tphmi\Desktop\WebCrawlerTool\WebCrawlerTool\bin\Debug\Fizzler.xml
+C:\Users\tphmi\Desktop\WebCrawlerTool\WebCrawlerTool\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+C:\Users\tphmi\Desktop\WebCrawlerTool\WebCrawlerTool\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tphmi\Desktop\WebCrawlerTool\WebCrawlerTool\bin\Debug\HtmlAgilityPack.xml
+C:\Users\tphmi\Desktop\WebCrawlerTool\WebCrawlerTool\obj\Debug\WebCrawlerTool.csprojResolveAssemblyReference.cache
+C:\Users\tphmi\Desktop\WebCrawlerTool\WebCrawlerTool\obj\Debug\WebCrawlerTool.Form1.resources
+C:\Users\tphmi\Desktop\WebCrawlerTool\WebCrawlerTool\obj\Debug\WebCrawlerTool.Properties.Resources.resources
+C:\Users\tphmi\Desktop\WebCrawlerTool\WebCrawlerTool\obj\Debug\WebCrawlerTool.csproj.GenerateResource.Cache
